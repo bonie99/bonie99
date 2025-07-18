@@ -1,9 +1,8 @@
-## 👋 Hi, I'm Brian Kimutai 
+## 👋 Hi, I'm Boniface Ngechu
 
-🎓 **Data Scientist** | 📊 **Data Analyst** | 🤖 **Machine Learning Developer**  
+🎓 Data Scientist | 📊 Data Analyst | 📐 Applied Statistics Enthusiast | 🤖 ML Developer 
 🌍 Based in Kenya | 💼 Open to Remote Opportunities  
-📧 **korosbrian574@gmail.com**  
-🌐 [**Portfolio Website**](https://kimutai99.github.io/briankimutai.github.io/)
+📧 **boniengechu99@gmail.com**  
 
 ---
 

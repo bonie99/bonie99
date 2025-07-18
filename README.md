@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hi, I'm Brian Kimutai 
 
-<!--
-**bonie99/bonie99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Data Scientist** | 📊 **Data Analyst** | 🤖 **Machine Learning Developer**  
+🌍 Based in Kenya | 💼 Open to Remote Opportunities  
+📧 **korosbrian574@gmail.com**  
+🌐 [**Portfolio Website**](https://kimutai99.github.io/briankimutai.github.io/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Skills
+- **Languages**: Python, SQL, HTML, CSS  
+- **Data Tools**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
+- **BI & Visualization**: Power BI, Tableau, Excel  
+- **ML & Deployment**: Flask, XGBoost, Random Forest, Docker  
+- **Database**: MySQL, PostgreSQL  
+- **Version Control & DevOps**: Git, GitHub, Azure DevOps  
